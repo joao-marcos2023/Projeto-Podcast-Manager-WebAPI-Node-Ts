@@ -1,0 +1,26 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["saúde", "esporte","bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "Rubens Barrichello - Flow #339",
+        "videoId": "4KDGTdiOV4I",
+        "categories": ["esporte", "corrida"]
+    },
+    {
+        "podcastName": "ciência sem fim",
+        "episode": "Especial Ufologia - Ciência sem Fim #277",
+        "videoId": "b74ef7f0f9fe",
+        "categories": ["ciência", "ufologia"]
+    },
+    {
+        "podcastName": "inteligência ltda",
+        "episode": "DR Bactéria - Inteligência Ltda #481",
+        "videoId": "1c88e50e297c",
+        "categories": ["ciência", "tecnologia", "saúde"]
+    }
+]
